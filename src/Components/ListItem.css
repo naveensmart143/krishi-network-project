@@ -1,0 +1,24 @@
+.ListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+  position: relative;
+  left: 30em;
+  justify-content: center;
+  margin: 1em;
+  padding: 1em;
+  background-color: blue;
+}
+.cropname {
+  color: white;
+  font-size: 2em;
+  font-weight: 3em;
+  padding: 3px;
+}
+.imageName {
+  height: 300px;
+}
+.imageName img {
+  height: 100%;
+}
